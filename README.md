@@ -20,21 +20,21 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### General advice
 
-https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf
+[Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
 
 https://pg.ucsd.edu/PhD-application-tips.htm
 
-https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+[Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/
 
 https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0
 
-https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/
+[Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
 
-https://timdettmers.com/2018/11/26/phd-applications/
+[Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
 
-https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju
+[Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
 
 ### The statement of purpose
 
@@ -56,15 +56,17 @@ https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html
 
 Examples:
 
-https://www.codycoleman.com/public/misc/Stanford-purpose.pdf
+[PhD statement by Cody Coleman](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf)
+
+[PhD statement by Sai Rallabandi](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
 
 ### Visit days, choosing and advisor and school 
 
-https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/
+[Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
 https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/
 
-https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf
+[How to Pick a Graduate Advisor by Ben Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 
 ## Advice for current students
 
@@ -100,17 +102,19 @@ https://engineering.purdue.edu/ChanGroup/write_review.html
 
 Examples:
 
-https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf
+[NSF personal statement by Victoria Dean](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf)
 
-https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf
+[NSF research statement by Victoria Dean](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf)
 
-http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf
+[Facebook fellowship statement by Paul Liang](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf)
 
-https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf
+[Facebook fellowship statement by Devendra Chaplot](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf)
+
+[Facebook fellowship statement by Sai Krishna Rallabandi](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
 
 ### Organizing workshops and tutorials
 
-[Hitchhiker’s Guide to Organizing an Academic Workshop by Ben Eysenbach and Surya Bhupatiraju](https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9)
+[Hitchhiker’s guide to organizing an academic workshop by Ben Eysenbach and Surya Bhupatiraju](https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9)
 
 ### Attending academic conferences
 
