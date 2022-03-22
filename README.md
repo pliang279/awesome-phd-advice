@@ -22,13 +22,13 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
 
-https://pg.ucsd.edu/PhD-application-tips.htm
+[A Five-Minute Guide to Ph.D. Program Applications by Philip Guo](https://pg.ucsd.edu/PhD-application-tips.htm)
 
 [Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
-https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/
+[HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 
-https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0
+[Applying for a PhD in NLP by Zhijing Jin and ACL Year-Round Mentorship Session](https://medium.com/@zhijing-jin/applying-for-a-phd-in-nlp-9d070a02cda0)
 
 [Student Perspectives on Applying to NLP PhD Programs by Akari Asai, John Hewitt, Sidd Karamcheti, Kalpesh Krishna, Nelson Liu, Roma Patel, and Nicholas Tomlin](https://blog.nelsonliu.me/2019/10/24/student-perspectives-on-applying-to-nlp-phd-programs/)
 
@@ -46,13 +46,13 @@ https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-st
 
 https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html
 
-https://t.co/J71ZD2dKJ1
+[Tips and Tricks, How-To Guide for Grad School SoPs by Erica Weng](https://t.co/J71ZD2dKJ1)
 
-https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+[Graduate School Statement of Purpose by MIT EECS](https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/)
 
-https://engineering.purdue.edu/ChanGroup/write_statement.html
+[How to write personal statement for graduate school application by Stanley Chan](https://engineering.purdue.edu/ChanGroup/write_statement.html)
 
-https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html
+[Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
 Examples:
 
@@ -64,7 +64,7 @@ Examples:
 
 [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
-https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/
+[How to Choose Your Grad School by Tim Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)
 
 [How to Pick a Graduate Advisor by Ben Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
 
@@ -76,7 +76,7 @@ https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/
 
 ### Writing
 
-https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf
+[How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
 http://www.mit.edu/~dimitrib/Ten_Rules.html
 
@@ -88,11 +88,11 @@ https://u.osu.edu/pcvlab/information/writing-good-papers-and-good-paper-reviews/
 
 ### Reviewing
 
-https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf
+[Reviewer Tutorial by CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
 
-https://sites.google.com/view/making-reviews-great-again/
+[How to write a good review by CVPR 2020](https://sites.google.com/view/making-reviews-great-again/)
 
-https://engineering.purdue.edu/ChanGroup/write_review.html
+[How to write a reviewer report by Stanley Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)
 
 ### Advising students
 
