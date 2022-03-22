@@ -4,7 +4,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Other similar collections
 
-[](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
+[Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
 
 [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)
 
@@ -110,13 +110,13 @@ https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf
 
 ### Organizing workshops and tutorials
 
-https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9
+[Hitchhiker’s Guide to Organizing an Academic Workshop by Ben Eysenbach and Surya Bhupatiraju](https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9)
 
 ### Attending academic conferences
 
-https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed
+[Nine things I wish I had known the first time I came to NeurIPS by Jennifer Vaughan](https://medium.com/@jennwv/nine-things-i-wish-i-had-known-the-first-time-i-came-to-nips-b939330661ed)
 
-https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd
+[NeurIPS 2018 through the eyes of first-timers by Fangyu Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)
 
 ### Academic job search
 
@@ -136,4 +136,4 @@ https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-51
 
 [What my PhD was like by Jean Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
-http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html
+[How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
