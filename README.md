@@ -38,13 +38,13 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### The statement of purpose
 
-https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html
+[Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
 
-http://cwfletcher.net/Pages/SoP.php
+[Graduate School Personal Statements by Christopher Fletcher](http://cwfletcher.net/Pages/SoP.php)
 
-https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80
+[Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
-https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html
+[How to Write a Bad Statement by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
 
 [Tips and Tricks, How-To Guide for Grad School SoPs by Erica Weng](https://t.co/J71ZD2dKJ1)
 
@@ -78,13 +78,11 @@ Examples:
 
 [How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 
-http://www.mit.edu/~dimitrib/Ten_Rules.html
+[Ten Simple Rules for Mathematical Writing by Dimitri Bertsekas](http://www.mit.edu/~dimitrib/Ten_Rules.html)
 
-http://people.csail.mit.edu/fredo/PUBLI/writing.pdf
+[Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 
-http://mri.beckman.illinois.edu/resources/good_paper.pdf
-
-https://u.osu.edu/pcvlab/information/writing-good-papers-and-good-paper-reviews/
+[How to write a (hopefully good) paper by Martin Vetterli ](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
 ### Reviewing
 
