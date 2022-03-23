@@ -25,6 +25,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Job search](#job-search)
 * [Memoirs](#memoirs)
 
+![](/phd030110s.gif)
+
 ## Other similar collections
 
 [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)
