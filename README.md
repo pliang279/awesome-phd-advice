@@ -2,6 +2,8 @@
 
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from many friends at MLD and LTI, CMU. If there are any links I missed, please let me know!
 
+![](/phd030110s.gif)
+
 ## Table of Contents
 * [Other similar collections](#other-similar-collections)
 * [Advice for prospective students](#advice-for-prospective-students)
@@ -24,8 +26,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Attending academic conferences](#attending-academic-conferences)
   * [Job search](#job-search)
 * [Memoirs](#memoirs)
-
-![](/phd030110s.gif)
 
 ## Other similar collections
 
