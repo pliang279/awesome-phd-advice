@@ -7,7 +7,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 * [Advice for prospective students](#advice-for-prospective-students)
   * [General advice](#general-advice)
   * [Statement of purpose](#statement-of-purpose)
-  * [Visit days, choosing and advisor and school](#visit-days-choosing-and-advisor-and-school)
+  * [Visit days, choosing advisor and school](#visit-days-choosing-advisor-and-school)
 * [Advice for current students](#advice-for-current-students)
   * [PhD survival guides](#PhD-survival-guides)
   * [Research](#research)
@@ -103,7 +103,7 @@ Public examples:
 
 [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
 
-### Visit days, choosing and advisor and school 
+### Visit days, choosing advisor and school 
 
 [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
