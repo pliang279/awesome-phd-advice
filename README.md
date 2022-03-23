@@ -20,9 +20,11 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ### General advice
 
+[Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+
 [Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
 
-[Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
+[Undergrad to PhD, or not - advice for undergrads interested in research by John Hewitt](https://nlp.stanford.edu//~johnhew//undergrad-researchers.html)
 
 [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
 
@@ -34,13 +36,21 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
 
+[Ph.D. Applications: FAQ by Noah Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
+
+[Quora answer on the admission committee process by Scott Fahlman](https://www.quora.com/What-does-the-admissions-committee-process-for-graduate-school-look-like-Do-you-sit-in-a-room-and-all-discuss-the-same-candidate-at-the-same-time-or-is-it-more-of-an-individual-process-with-opinions-aggregated-at-the-end)
+
+[Reflecting on CS Graduate Admissions by David Anderson](https://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html)
+
+[A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
+
 ### The statement of purpose
 
 [Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
 
 [Graduate School Personal Statements by Christopher Fletcher](http://cwfletcher.net/Pages/SoP.php)
 
-[Inside Ph.D. admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
+[Inside PhD admissions: What readers look for in a Statement of Purpose by Nathan Schneider](https://nschneid.medium.com/inside-ph-d-admissions-what-readers-look-for-in-a-statement-of-purpose-3db4e6081f80)
 
 [How to Write a Bad Statement by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
 
@@ -52,7 +62,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
-Examples:
+Public examples:
 
 [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
 
@@ -86,6 +96,18 @@ Examples:
 
 ### Research
 
+[How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
+
+[How to Have a Bad Career How to Have a Bad Career in Research/Academia by David Patterson](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf)
+
+[Useful Thoughts about Research by H.T. Kung](https://www.eecs.harvard.edu/htk/phdadvice/)
+
+[You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+
+### Reading
+
+[How to Read a Paper by Srinivasan Keshav](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+
 ### Writing
 
 [How to write a good CVPR submission by Bill Freeman](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
@@ -112,9 +134,17 @@ Examples:
 
 ### Fellowship applications
 
-Examples:
+[Tips for the NSF GRFP Application by Danielle Perry](https://web.uri.edu/graduate-writing-center/tips-for-the-nsf-grfp-application/)
 
-[[Victoria Dean (NSF1)]](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf), [[Victoria Dean (NSF2)]](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf), [[Paul Liang (Facebook)]](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf), [[Devendra Chaplot (Facebook)]](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf), [[Sai Rallabandi (Facebook)]](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
+[NSF GRFP Advice by Christine Liu](http://www.christineliuart.com/writing/2018/8/31/advice-for-applying-to-the-nsf-grfp)
+
+[NSF Fellowship by Alex Lang](https://www.alexhunterlang.com/nsf-fellowship)
+
+[Tips by Tara Safavi](https://tsafavi.github.io/nsf-grfp.html)
+
+Public examples:
+
+[[Extensive collection]](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0), [[Victoria Dean (NSF1)]](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf), [[Victoria Dean (NSF2)]](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf), [[Tara Safavi]](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf), [[Paul Liang (Facebook)]](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf), [[Devendra Chaplot (Facebook)]](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf), [[Sai Rallabandi (Facebook)]](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
 
 ### Organizing workshops and tutorials
 
@@ -128,7 +158,7 @@ Examples:
 
 ### Academic job search
 
-[Checklist for faculty job-hunting in Stat/MLby Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/aadi-jobhunt-checklist.pdf)
+[Checklist for faculty job-hunting in Stat/ML by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/aadi-jobhunt-checklist.pdf)
 
 [Tips on the interview process by Jeannette Wing](https://www.cs.cmu.edu/~emigration/interview.pdf)
 
@@ -145,3 +175,5 @@ Examples:
 [What my PhD was like by Jean Yang](https://jxyzabc.blogspot.com/2016/02/my-phd-abridged.html)
 
 [How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
+
+[The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
