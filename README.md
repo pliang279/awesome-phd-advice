@@ -2,6 +2,29 @@
 
 By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from many friends at MLD and LTI, CMU. If there are any links I missed, please let me know!
 
+## Table of Contents
+* [Other similar collections](#other-similar-collections)
+* [Advice for prospective students](#advice-for-prospective-students)
+  * [General advice](#general-advice)
+  * [Statement of purpose](#statement-of-purpose)
+  * [Visit days, choosing and advisor and school](#visit-days-choosing-and-advisor-and-school)
+* [Advice for current students](#advice-for-current-students)
+  * [PhD survival guides](#PhD-survival-guides)
+  * [Research](#research)
+  * [Reading](#reading)
+  * [Writing](#writing)
+  * [Blogposts](#blogposts)
+  * [Reviewing](#reviewing)
+  * [Presenting](#presenting)
+  * [Advising students](#advising-students)
+  * [Teaching](#teaching)
+  * [Fellowship applications](#fellowship-applications)
+  * [Networking](#networking)
+  * [Organizing workshops and tutorials](#organizing-workshops-and-tutorials)
+  * [Attending academic conferences](#attending-academic-conferences)
+  * [Job search](#job-search)
+* [Memoirs](#memoirs)
+
 ## Other similar collections
 
 [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)
@@ -58,7 +81,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
 
-### The statement of purpose
+### Statement of purpose
 
 [Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
 
