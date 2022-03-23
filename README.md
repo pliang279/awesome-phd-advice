@@ -101,7 +101,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Writing a Google AI Residency Cover Letter by Katherine Lee and Ben Eysenbach](https://colinraffel.com/blog/writing-a-google-ai-residency-cover-letter.html)
 
-Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
+Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf), [[Jeremy Lacomis]](https://www.cs.cmu.edu/~jlacomis/assets/statement/personal-statement-cmu.pdf), [[Sean Kross ]](https://seankross.com/notes/grad-school-essays/ShortPersonalStatement.pdf), [[Zahid Hossain]](https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf), [[Jean Yang]](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
 
 ### Visit days, choosing advisor and school 
 
