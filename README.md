@@ -10,6 +10,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
 
+[Advice Collection by Tao Xie and Yuan Xie](https://taoxie.cs.illinois.edu/advice.htm)
+
 [Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
 
 [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)
@@ -54,6 +56,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
 
+[The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
+
 ### The statement of purpose
 
 [Some Suggestions on writing your statement of purpose by Jennifer Mankoff](https://www.cc.gatech.edu/fce/people/jmankoff/gradschool/sops.html)
@@ -87,6 +91,8 @@ Public examples:
 ## Advice for current students
 
 ### PhD survival guides
+
+[So long, and thanks for the PhD by Ronald T. Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)
 
 [Graduate School: Keys To Success by Remzi Arpaci-Dusseau](https://www.youtube.com/watch?v=fqPSnjewkuA&ab_channel=RemziArpaci-Dusseau)
 
