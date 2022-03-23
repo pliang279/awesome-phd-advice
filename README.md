@@ -6,6 +6,10 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)
 
+[Advice for Research Students by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/)
+
+[Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
+
 [Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
 
 [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)
@@ -17,6 +21,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Useful computer vision PhD resources by Yana Hasson](https://github.com/hassony2/useful-computer-vision-phd-resources)
 
 [Checklists for Stat-ML PhD students by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists.html)
+
+[Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 
 ## Advice for prospective students
 
@@ -37,6 +43,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [Machine Learning PhD Applications — Everything You Need to Know by Tim Dettmers](https://timdettmers.com/2018/11/26/phd-applications/)
 
 [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
+
+[A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 
 [Ph.D. Applications: FAQ by Noah Smith](https://docs.google.com/document/d/1lT-bsIP0GKfh8l5sQnM2hCzzR9prt-QLx16rimUOdIM/edit)
 
@@ -106,9 +114,13 @@ Public examples:
 
 [You and Your Research by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
+[Advice on Research and Writing by Mark Leone](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html)
+
 ### Reading
 
 [How to Read a Paper by Srinivasan Keshav](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+
+[How to Read a Technical Paper by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
 
 ### Writing
 
@@ -130,9 +142,15 @@ Public examples:
 
 [How to write a reviewer report by Stanley Chan](https://engineering.purdue.edu/ChanGroup/write_review.html)
 
+### Presenting
+
+[Giving an Academic Talk by Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
+
 ### Advising students
 
 ### Teaching
+
+[How to Be a Teaching Assistant by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-ta.html)
 
 ### Fellowship applications
 
@@ -148,6 +166,10 @@ Public examples:
 
 [[Extensive collection]](https://docs.google.com/spreadsheets/d/1xoezGhbtcpg3BvNdag2F5dTQM-Xl2EELUgAfG1eUg0s/edit#gid=0), [[Victoria Dean (NSF1)]](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf), [[Victoria Dean (NSF2)]](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf), [[Tara Safavi]](https://tsafavi.github.io/assets/pdf/nsf-personal.pdf), [[Paul Liang (Facebook)]](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf), [[Devendra Chaplot (Facebook)]](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf), [[Sai Rallabandi (Facebook)]](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
 
+### Networking
+
+[Networking on the Network: A Guide to Professional Skills for PhD Students by Phil Agre](https://vlsicad.ucsd.edu/Research/Advice/network.html)
+
 ### Organizing workshops and tutorials
 
 [Hitchhiker’s guide to organizing an academic workshop by Ben Eysenbach and Surya Bhupatiraju](https://medium.com/@erl.leads/hitchhikers-guide-to-organizing-an-academic-workshop-cc9a5b1c32c9)
@@ -158,7 +180,11 @@ Public examples:
 
 [NeurIPS 2018 through the eyes of first-timers by Fangyu Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)
 
-### Academic job search
+### Job search
+
+[The Ph.D. Job Hunt - Helping Students Find the Right Positions by Ed Lazowska](http://lazowska.cs.washington.edu/jobs.pdf)
+
+[The N Things I wish I Knew Before the Job Search, by Maria Ebling, Guerney Hunt, Lily Mummert, Bill Tetzlaff, and John Davis](https://people.engr.tamu.edu/rabi/N%20Things.PDF)
 
 [Checklist for faculty job-hunting in Stat/ML by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/aadi-jobhunt-checklist.pdf)
 
