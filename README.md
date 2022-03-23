@@ -175,6 +175,8 @@ Public examples:
 
 [Giving an Academic Talk by Jonathan Shewchuk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
 
+[How to give a technical presentation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
+
 ### Advising students
 
 ### Teaching
