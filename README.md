@@ -4,6 +4,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 ## Other similar collections
 
+[Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)
+
 [Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
 
 [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)
