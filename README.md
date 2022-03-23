@@ -22,8 +22,6 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Graduate School Advice by Stanford CS](https://cs.stanford.edu/degrees/phd/PhD/GraduateSchoolAdvice.pdf)
 
-[A Five-Minute Guide to Ph.D. Program Applications by Philip Guo](https://pg.ucsd.edu/PhD-application-tips.htm)
-
 [Applying to PhD Programs in Computer Science by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
 [HOWTO: Get into grad school for science, engineering, math and computer science by Matt Might](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/)
@@ -72,6 +70,22 @@ Examples:
 
 ### PhD survival guides
 
+[Graduate School: Keys To Success by Remzi Arpaci-Dusseau](https://www.youtube.com/watch?v=fqPSnjewkuA&ab_channel=RemziArpaci-Dusseau)
+
+[The illustrated guide to a PhD by Matt Might](https://matt.might.net/articles/phd-school-in-pictures/)
+
+[How to Be a Successful PhD Student by Mark Dredze, Hanna Wallach](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+
+[Time Management by Randy Pausch](https://www.cs.utexas.edu/users/dahlin/bookshelf/timetalk.htm)
+
+[Advice to a Beginning Graduate Student by Manuel Blum](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html)
+
+[Finances for CS PhD students by David Anderson](https://da-data.blogspot.com/2016/09/finances-for-cs-phd-students.html)
+
+[A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
+
+[15 pieces of advice I wish my PhD advisor had given me by Jim Kurose](http://www-net.cs.umass.edu/kurose/talks/student_keynote_final.pdf)
+
 ### Research
 
 ### Writing
@@ -83,6 +97,8 @@ Examples:
 [Notes on writing by Fredo Durand](http://people.csail.mit.edu/fredo/PUBLI/writing.pdf)
 
 [How to write a (hopefully good) paper by Martin Vetterli ](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
+
+### Blogposts
 
 ### Reviewing
 
