@@ -54,9 +54,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 Examples:
 
-[PhD statement by Cody Coleman](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf)
-
-[PhD statement by Sai Rallabandi](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
+[[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf)
 
 ### Visit days, choosing and advisor and school 
 
@@ -116,15 +114,7 @@ Examples:
 
 Examples:
 
-[NSF personal statement by Victoria Dean](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf)
-
-[NSF research statement by Victoria Dean](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf)
-
-[Facebook fellowship statement by Paul Liang](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf)
-
-[Facebook fellowship statement by Devendra Chaplot](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf)
-
-[Facebook fellowship statement by Sai Krishna Rallabandi](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
+[[Victoria Dean (NSF1)]](https://vdean.github.io/resources/NSF_Personal_Statement_Victoria_Dean.pdf), [[Victoria Dean (NSF2)]](https://vdean.github.io/resources/NSF_Research_Statement_Victoria_Dean.pdf), [[Paul Liang (Facebook)]](http://www.cs.cmu.edu/~pliang/research_statement_paul_liang_2020.pdf), [[Devendra Chaplot (Facebook)]](https://devendrachaplot.github.io/misc/DevendraChaplot_Statement2019.pdf), [[Sai Rallabandi (Facebook)]](http://www.cs.cmu.edu/~srallaba/pdfs/fellowships_mothersheet.pdf)
 
 ### Organizing workshops and tutorials
 
