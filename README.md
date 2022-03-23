@@ -192,6 +192,8 @@ Public examples:
 
 [The N Things I wish I Knew Before the Job Search, by Maria Ebling, Guerney Hunt, Lily Mummert, Bill Tetzlaff, and John Davis](https://people.engr.tamu.edu/rabi/N%20Things.PDF)
 
+[The academic job search for computer scientists in 10 questions by Nicolas Papernot and Elissa Redmiles](https://docs.google.com/document/u/1/d/e/2PACX-1vSeOnC_QdaJVc3OuuMfDHVlk3QotUxvghytRFaDsrdA0uovD5axQjp8kJCM4Evu1cCf9Hg_u_Stabu1/pub)
+
 [Checklist for faculty job-hunting in Stat/ML by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists/aadi-jobhunt-checklist.pdf)
 
 [Tips on the interview process by Jeannette Wing](https://www.cs.cmu.edu/~emigration/interview.pdf)
