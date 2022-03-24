@@ -1,6 +1,6 @@
 # Collection of advice for prospective and current PhD students 
 
-By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from many friends at MLD and LTI, CMU. If there are any links I missed, please let me know!
+By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Learning Department](http://www.ml.cmu.edu/) and [Language Technologies Institute](https://www.lti.cs.cmu.edu/), [CMU](https://www.cmu.edu/), with help from many friends at CMU. If there are any links I missed, please let me know!
 
 ![](/phd030110s.gif)
 
