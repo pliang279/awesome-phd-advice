@@ -163,6 +163,8 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 ### Blogposts
 
+(coming soon, send PR!)
+
 ### Reviewing
 
 [Reviewer Tutorial by CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf)
@@ -178,6 +180,8 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 [How to give a technical presentation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
 
 ### Advising students
+
+(coming soon, send PR!)
 
 ### Teaching
 
