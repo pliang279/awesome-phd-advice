@@ -133,6 +133,10 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 [15 pieces of advice I wish my PhD advisor had given me by Jim Kurose](http://www-net.cs.umass.edu/kurose/talks/student_keynote_final.pdf)
 
+[The Tao of PhD: Thriving in the Allen School’s Graduate Program by University of Washington](https://courses.cs.washington.edu/courses/cse590x/22wi/)
+
+[10 tips for PhD students by Daniela Witten](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
+
 ### Research
 
 [How to Do Great Research by Nick Feamster and Alex Gray](https://greatresearch.org/)
