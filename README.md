@@ -217,6 +217,8 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 
 [NeurIPS 2018 through the eyes of first-timers by Fangyu Cai](https://medium.com/syncedreview/neurips-2018-through-the-eyes-of-first-timers-5156384900bd)
 
+[How To Make A Plan To Attend International Academic Conferences](https://internationalconferencealerts.com/blog/how-to-make-a-plan-to-attend-international-academic-conferences/)
+
 ### Job search
 
 [The Ph.D. Job Hunt - Helping Students Find the Right Positions by Ed Lazowska](http://lazowska.cs.washington.edu/jobs.pdf)
