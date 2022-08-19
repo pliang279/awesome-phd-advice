@@ -167,7 +167,7 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 ### Blogposts
 
-(coming soon, send PR!)
+[PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
 
 ### Reviewing
 
