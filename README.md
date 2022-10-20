@@ -231,6 +231,8 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 
 [How to Ask for a Letter of Recommendation](https://kamathematics.wordpress.com/2021/08/18/how-to-ask-for-a-letter-of-recommendation/)
 
+[Interview Questions for Computer Science Faculty Jobs](https://csfaculty.github.io/)
+
 [The Ph.D. Job Hunt - Helping Students Find the Right Positions by Ed Lazowska](http://lazowska.cs.washington.edu/jobs.pdf)
 
 [The N Things I wish I Knew Before the Job Search, by Maria Ebling, Guerney Hunt, Lily Mummert, Bill Tetzlaff, and John Davis](https://people.engr.tamu.edu/rabi/N%20Things.PDF)
