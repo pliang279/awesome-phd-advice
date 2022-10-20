@@ -103,6 +103,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanford-purpose.pdf), [[Sai Rallabandi]](http://www.cs.cmu.edu/~srallaba/pdfs/statement_PhD.pdf), [[Jeremy Lacomis]](https://www.cs.cmu.edu/~jlacomis/assets/statement/personal-statement-cmu.pdf), [[Sean Kross ]](https://seankross.com/notes/grad-school-essays/ShortPersonalStatement.pdf), [[Zahid Hossain]](https://graphics.stanford.edu/~zhossain/grad/sop_mit.pdf), [[Jean Yang]](https://github.com/jeanqasaur/academic-application-materials/blob/master/phd-application-2007/personal_statement.pdf)
 
+[Database of Example PhD SOPs by the CS-SOP initiative](https://cs-sop.org)
+
 ### Visit days, choosing advisor and school 
 
 [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
@@ -110,6 +112,8 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 [How to Choose Your Grad School by Tim Dettmers](https://timdettmers.com/2022/03/13/how-to-choose-your-grad-school/)
 
 [How to Pick a Graduate Advisor by Ben Barres](https://hst.mit.edu/sites/default/files/media/files/Barres%20BA.Neuron.80.275.2013.pdf)
+
+[The Definitive ‘what do I ask/look for’ in a PhD Advisor Guide by Columbia CS](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf)
 
 ## Advice for current students
 
@@ -136,6 +140,8 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 [The Tao of PhD: Thriving in the Allen School’s Graduate Program by University of Washington](https://courses.cs.washington.edu/courses/cse590x/22wi/)
 
 [10 tips for PhD students by Daniela Witten](https://imstat.org/2022/04/01/written-by-witten-so-long-and-thanks-for-all-the-tips/)
+
+[Expectation Setting by Eugene Vinitsky](http://eugenevinitsky.github.io/posts/expectation_setting.html)
 
 ### Research
 
