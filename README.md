@@ -73,7 +73,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 
 [Demystifying ML PhD Admissions to US Universities by Hima Lakkaraju](https://www.youtube.com/watch?v=z6TkkdlRWcU&ab_channel=HimabinduLakkaraju)
 
-[Demystifying PhD Admissions in Computer Science in the US: a Guide for Vietnamese and International Students by ThanhVu Nguyen](https://raw.githubusercontent.com/nguyenthanhvuh/phd-cs-us/main/demystify.pdf)
+[Demystifying PhD Admissions in Computer Science in the US: a Guide for Vietnamese and International Students by ThanhVu Nguyen](https://dynaroars.github.io/pubs/demystify.pdf)
 
 [A long, rambling, mostly personal corpus of advice on applying to Computer Science grad school (for UWCSE students) by Justine Sherry](https://people.eecs.berkeley.edu/~justine/advice.pdf)
 
