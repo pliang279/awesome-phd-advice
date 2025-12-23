@@ -26,6 +26,7 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
   * [Attending academic conferences](#attending-academic-conferences)
   * [Job search](#job-search)
 * [Memoirs](#memoirs)
+* [PhD in France](#PhD-in-France)
 
 ## Other similar collections
 
@@ -86,6 +87,8 @@ By [Paul Liang](http://www.cs.cmu.edu/~pliang/) (pliang@cs.cmu.edu), [Machine Le
 [A PhD is Not Enough: A Guide to Survival in Science by Peter Feibelman](https://biomath.usu.edu/files/Peter_J._Feibelman_A_PhD_Is_Not_Enough.pdf)
 
 [The PhD in CS: Getting There and Being Successful by Michael Hilton, Janet Davis, and Ian Ludden](https://conquer.cra.org/wp-content/uploads/2021/11/ThePhDinComputing_CRAEWebinar.pdf)
+
+[For potential Ph.D. students by Ravi Vakil](https://math.stanford.edu/~vakil/potentialstudents.html)
 
 ### Statement of purpose
 
@@ -175,6 +178,10 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 [How to write a (hopefully good) paper by Martin Vetterli ](http://mri.beckman.illinois.edu/resources/good_paper.pdf)
 
+[Write No Matter What by Joli Jensen](https://search.worldcat.org/title/1001807225)
+
+[How to write a lot by Paul Silvia](https://search.worldcat.org/title/1031051356)
+
 ### Blogposts
 
 [PhDLife Blog](https://phdlife.warwick.ac.uk/) - A collection of blog posts from [Warwick University](https://warwick.ac.uk)
@@ -262,3 +269,9 @@ Public examples: [[Extensive NSF collection by Alex Lang]](https://docs.google.c
 [How to get a Ph.D. in computer science if you're me by Chris Martens](http://lambdamaphone.blogspot.com/2015/11/how-to-get-phd-in-computer-science-if.html)
 
 [The N=1 guide to grad school by Adam Marcus](http://marcua.net/writing/gradschool-guide/)
+
+## PhD in France
+
+[Encadrer des thèses : d’abord, ne pas nuire (1)](https://journals.openedition.org/echogeo/22889)
+
+[Encadrer des thèses : d’abord, ne pas nuire (2)](https://journals.openedition.org/echogeo/23589)
