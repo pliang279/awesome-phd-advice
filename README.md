@@ -111,7 +111,7 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 ### Visit days, choosing advisor and school 
 
-[The first AI platform built for academic matching: find best-fit professors worldwide, understand why they fit, and reach out faster](https://www.apexapply.com/)
+[The first AI platform built for academic matching: find best-fit professors worldwide, understand why they fit, and reach out faster.](https://www.apexapply.com/)
 
 [Questions to Ask a Prospective Ph.D. Advisor on Visit Day, With Thorough and Forthright Explanations by Andrew Kuznetsov](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/)
 
