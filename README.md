@@ -193,6 +193,8 @@ Public examples: [[Cody Coleman]](https://www.codycoleman.com/public/misc/Stanfo
 
 [How to give a technical presentation by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html)
 
+[Screen-Share Pointer Checklist for Zoom and Teams (Light Tracer)](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/)
+
 ### Advising students
 
 (coming soon, send PR!)
